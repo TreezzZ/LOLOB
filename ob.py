@@ -9,7 +9,7 @@ import os
 obParamsFeatures = '@start'
 
 # 客户端路径
-clientPath = r'D:\game\LOL\Game'
+clientPath = r'D:\Game\英雄联盟\Game'
 
 # 处理命令行参数
 def handleParams():
